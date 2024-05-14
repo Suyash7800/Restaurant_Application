@@ -1,0 +1,87 @@
+@charset "UTF-8";
+
+.container {
+	width: 80%;
+	margin-left: 150px;
+	height: 750px;
+	background-color: red;
+	background-image: url("images/backgroundwall.jpg"); background-repeat :
+	no-repeat; background-size : cover; background-position : absolute;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: absolute;
+}
+
+.content {
+	padding: 200px;
+	text-align: center;
+	color: red;
+	background-color: blue;
+	height: 100px;
+	width: 400px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-image: url("images/backgroundwall.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: absolute;
+	border-radius: 10px;
+	border-style: solid;
+	border-color: white;
+	color: white;
+	font-family: cursive;
+}
+
+.f
+{
+	width:150px; 
+	height: 30px;
+	border-radius: 6px;
+}
+.l
+{
+		width:120px;  
+	height: 30px;
+	border-radius: 6px;
+}
+.c
+{
+		width:200px;
+	height:30px; 
+	border-radius: 6px; 
+}
+.p
+{
+		width:200px;
+	height:30px; 
+	border-radius: 6px;  
+}
+.cp
+{
+		width:200px;
+	height:30px; 
+	border-radius: 6px; 
+}
+.su
+{
+	width: 80px;
+	height: 20px;
+	border-radius: 4px;
+}
+input[type="submit"]:hover{
+	background-color: green; 
+}
+.b
+{
+	width:150px; 
+	height:20px;
+	border-radius:4px;
+	background-image:url("images/go.png"); 
+	background-size: 100% ,100%;
+	background-position: absolute;
+	background-repeat: no-repeat;
+}
